@@ -1,5 +1,6 @@
 -- Active: 1747742347551@@127.0.0.1@5432@ph
  
+ -- TASK LINK: https://like-frog-b41.notion.site/SQL-Join-Practice-Task-27ac979408f5477da80de4ab299f9225
 
  CREATE TABLE employees (
   employee_id SERIAL PRIMARY KEY,
