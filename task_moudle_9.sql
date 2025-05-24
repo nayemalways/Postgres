@@ -1,4 +1,7 @@
  
+-- TASK LINK: https://docs.google.com/document/d/1VOqXm0SM95hiY80o7c6mkHxOJoO1_wmKX7Iuf5jZ8BY/edit?tab=t.0
+
+
  CREATE TABLE departments (
     id SERIAL PRIMARY KEY,
     name VARCHAR(150) NOT NULL
