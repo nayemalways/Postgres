@@ -59,6 +59,7 @@ This project showcases my hands-on SQL practice involving table creation, data i
 - Data filtering with `BETWEEN`, `EXTRACT`, and `GROUP BY`
 - Aggregate functions (`COUNT`)
 - Column renaming using `ALTER TABLE`
+- Practice subqueries- how subquery works, how retrive data combining two condigion by subquery.
 
 ---
 
