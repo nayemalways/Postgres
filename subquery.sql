@@ -1,3 +1,4 @@
+-- Active: 1747742347551@@127.0.0.1@5432@my_db@public
 CREATE DATABASE my_db
 
 CREATE TABLE employees (
